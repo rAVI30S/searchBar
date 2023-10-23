@@ -1,0 +1,2 @@
+# searchBar
+Hidden Search bar
